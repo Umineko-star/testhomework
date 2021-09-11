@@ -1,0 +1,13 @@
+.search_input{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 260px;
+}
+.order_table{
+  height: 340px;
+}
+.delete{
+  float: right;
+  margin-top: 10px;
+  margin-right: 10px;
+}

@@ -1,0 +1,7 @@
+.form-content{
+    display: flex;
+    justify-content: space-around;
+}
+.from-item input{
+    width: 160px;
+}
